@@ -26,7 +26,7 @@ pip install <module name>
 
 
 ## Note :📝 
-Feel free to file a new issue with a respective title and description on the **Gesture-Volume-Control**. If you already found a solution to your problem, I would love to review your pull request! 
+Feel free to file a new issue with a respective title and description on the **AI-Virtual-Paint**. If you already found a solution to your problem, I would love to review your pull request! 
 
 ## Contribution :📲
 1. Clone the repository 
