@@ -50,7 +50,7 @@ $git add .
 ```
 $git commit -m  <message>
 ```
-6. To pull your code to reposoitory
+6. To push your code to reposoitory
 ```
 $git push origin master
 ```
